@@ -125,7 +125,7 @@ eksctl version
 
 4--Setup Kubernetes using eksctl
 eksctl create cluster --name virtualtechbox-cluster \
---region ap-south-1 \
+--region us-east-1 \
 --node-type t2.small \
 --nodes 3 \
 
